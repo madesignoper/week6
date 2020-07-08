@@ -42,7 +42,7 @@ flex 속성을 이용하여 페이지의 layout을 구성해봅시다.
 
 ### font awesome 관련
 
-font awesome을 사용하기 위해서는 html 파일의 <head> 부분에 
+font awesome을 사용하기 위해서는 html 파일의 `<head>` 부분에 
   
 ```html
   <link
