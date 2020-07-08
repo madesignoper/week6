@@ -8,7 +8,7 @@ flex 속성을 이용하여 페이지의 layout을 구성해봅시다.
 
 ## 💻 예제 화면
 
-1. [메인 페이지 - `index.html`](https://madesignoper.github.io/site/week5/)
+1. [메인 페이지 - `index.html`](https://madesignoper.github.io/site/week06/)
 
 <br>
 
@@ -35,9 +35,28 @@ flex 속성을 이용하여 페이지의 layout을 구성해봅시다.
 
 - semantic한 tag를 사용하여 작성해봅시다.
 - 예제 화면의 디자인으로 진행하지 않고 변경하셔도 좋습니다.
+- 원하는 앨범의 이미지를 활용하셔서 페이지를 구성하셔도 좋습니다.
 
-- 상단의 헤더는 아래로 스크롤해도 화면에서 사라지지 않고 고정되어 있어야 합니다.
-- 왼쪽에는 사이드메뉴, 오른쪽에는 본문이 위치하도록 구성해주세요.
-- 본문에는 두개의 이미지가 포함되어 있어야 합니다.
+- 알려드린 페이지의 튜토리얼을 진행하고 footer부분은 각자 진행해봅니다.
 
+### font awesome 관련
+
+font awesome을 사용하기 위해서는 html 파일의 <head> 부분에 
+  
+```html
+  <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+    />
+  ```
+ 를 추가해야 합니다.
+ 
+ * footer 부분에 필요한 icon은
+ ```html
+<i class="fa fa-forward"></i>
+<i class="fa fa-pause"></i>
+<i class="fa fa-backward"></i>
+<i class="fa fa-random"></i>
+ ```
+ 를 사용합니다. (더 추가하셔도 되요!)
 <br>
