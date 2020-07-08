@@ -9,7 +9,7 @@ flex 속성을 이용하여 페이지의 layout을 구성해봅시다.
 ## 💻 예제 화면
 
 1. [메인 페이지 - `index.html`](http://output.jsbin.com/wubudog/)
-2. [참고 페이지](http://output.jsbin.com/wubudog/)
+2. [참고 페이지](https://usecode.pw/understanding-flexbox-everything-you-need-to-know/)
 
 <br>
 
