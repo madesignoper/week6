@@ -8,7 +8,7 @@ flex 속성을 이용하여 페이지의 layout을 구성해봅시다.
 
 ## 💻 예제 화면
 
-1. [메인 페이지 - `index.html`](https://madesignoper.github.io/site/week06/)
+1. [메인 페이지 - `music.html`](https://madesignoper.github.io/site/week06/)
 
 <br>
 
